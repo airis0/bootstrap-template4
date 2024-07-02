@@ -1,0 +1,27 @@
+header {
+  padding: 156px 0 100px;
+}
+
+section {
+  padding: 150px 0;
+}
+
+#about h2 {
+  text-align: center;
+}
+
+#services h2 {
+  text-align: center;
+}
+
+#contact {
+  text-align: center;
+}
+
+#contact form {
+  margin-top: 10%;
+}
+
+#contact form input, textarea {
+  width: 300px;
+}
